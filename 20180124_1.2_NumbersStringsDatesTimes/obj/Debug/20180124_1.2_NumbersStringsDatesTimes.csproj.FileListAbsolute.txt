@@ -1,0 +1,6 @@
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180124_1.2_NumbersStringsDatesTimes\20180124_1.2_NumbersStringsDatesTimes\bin\Debug\20180124_1.2_NumbersStringsDatesTimes.exe.config
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180124_1.2_NumbersStringsDatesTimes\20180124_1.2_NumbersStringsDatesTimes\bin\Debug\20180124_1.2_NumbersStringsDatesTimes.exe
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180124_1.2_NumbersStringsDatesTimes\20180124_1.2_NumbersStringsDatesTimes\bin\Debug\20180124_1.2_NumbersStringsDatesTimes.pdb
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180124_1.2_NumbersStringsDatesTimes\20180124_1.2_NumbersStringsDatesTimes\obj\Debug\20180124_1.2_NumbersStringsDatesTimes.csproj.CoreCompileInputs.cache
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180124_1.2_NumbersStringsDatesTimes\20180124_1.2_NumbersStringsDatesTimes\obj\Debug\20180124_1.2_NumbersStringsDatesTimes.exe
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180124_1.2_NumbersStringsDatesTimes\20180124_1.2_NumbersStringsDatesTimes\obj\Debug\20180124_1.2_NumbersStringsDatesTimes.pdb
